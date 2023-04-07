@@ -1,0 +1,1213 @@
+'{
+	"props": {
+		"children": [{
+			"props": {
+				"children": [{
+					"props": {
+						"children": {
+							"props": {
+								"children": [{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Cognome/Nome",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": "ANNUNZIATO MONICA",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Data di Nascita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": "26/04/1987",
+														"id": "DataNascita"
+													},
+													"type": "Div",
+													"namespace": "dash_html_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Luogo di Nascita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": "Roma",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_h
+tml_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Sesso",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": "F",
+														"id": "Sesso"
+													},
+													"type": "Div",
+													"namespace": "dash_html_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								}]
+							},
+							"type": "Table",
+							"namespace": "dash_html_components"
+						},
+						"style": {
+							"vertical-align": "top",
+							"width": "350.0px"
+						}
+					},
+					"type": "Td",
+					"namespace": "dash_html_components"
+				},
+				{
+					"props": {
+						"children": {
+							"props": {
+								"children": [{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Codice Paziente",
+												"style": {
+													"padding": "2px",
+													"o
+verflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": 2863,
+														"id": "currentCodPaz"
+													},
+													"type": "Div",
+													"namespace": "dash_html_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Codice Visita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": "16276",
+														"id": "currentCodVisita"
+													},
+													"type": "Div",
+													"namespac
+e": "dash_html_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								}]
+							},
+							"type": "Table",
+							"namespace": "dash_html_components"
+						},
+						"style": {
+							"vertical-align": "top",
+							"width": "350.0px"
+						}
+					},
+					"type": "Td",
+					"namespace": "dash_html_components"
+				}]
+			},
+			"type": "Tr",
+			"namespace": "dash_html_components"
+		},
+		{
+			"props": {
+				"children": [{
+					"props": {
+						"children": {
+							"props": {
+								"children": [{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Tipo Visita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"options": [{
+															"label": "1a visita di controllo (Fine del primo mese)",
+															"value": "1"
+														},
+														{
+															"
+label": "2a visita di controllo (3o mese)",
+															"value": "2"
+														},
+														{
+															"label": "3a visita di controllo (5o mese)",
+															"value": "3"
+														},
+														{
+															"label": "4a visita di controllo (10-12o mese)",
+															"value": "4"
+														},
+														{
+															"label": "Visita generica",
+															"value": 5
+														},
+														{
+															"label": "Visita per certificato",
+															"value": 6
+														},
+														{
+															"label": "Visita per malattia",
+															"value": 7
+														}],
+														"value": ["Visita generica"],
+														"style": {
+															"font-size": "12px"
+														},
+														"id": "Tipodivisita"
+													},
+													"type": "Dropdown",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Motivo della visita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"value": "controllo accrescimento",
+														"style": {
+															"width": "100%"
+														},
+														"id": "MotivodellaVisita"
+													},
+													"type": "
+Input",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Data della visita",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"date": "2004-02-05T00:00:00",
+														"min_date_allowed": "1950-01-01T00:00:00",
+														"max_date_allowed": "2050-09-19T00:00:00",
+														"placeholder": "D MMM YYYY",
+														"initial_visible_month": "2023-02-01T10:16:12.906682",
+														"display_format": "D MMM YYYY",
+														"id": "DataVisita"
+													},
+													"type": "DatePickerSingle",
+													"namespace": "dash_core_components"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_h
+tml_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Peso rilevato (gr)",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"value": 54000,
+														"style": {
+															"width": "100%"
+														},
+														"id": "PesoRilevato(gr)"
+													},
+													"type": "Input",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Lunghezza",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text
+-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"value": 165,
+														"style": {
+															"width": "100%"
+														},
+														"id": "Lunghezza(cm)"
+													},
+													"type": "Input",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "Circ. cranica (cm)",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "right",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"value": 0,
+														"style": {
+															"width": "100%"
+														},
+														"id": "CirconferenzaCranica"
+													},
+													"type": "Input",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								}]
+							},
+							"type": "Table",
+							"namespace": "dash_html_components"
+						},
+						"style": {
+							"vertical-align": "top",
+							"width": "350.0px"
+						}
+					},
+					"type": "Td",
+					"namespace": "dash_html_components"
+				},
+				{
+					"props": {
+						"children": {
+							"props": {
+								"children": [{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "LatteMaterno|Latte Materno",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "left",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"options": [{
+															"label": "",
+															"value": "TRUE"
+														}],
+														"value": ["FALSE"]
+													},
+													"type": "Checklist",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align
+": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": "AltroLatte|Altro Latte",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "left",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"options": [{
+															"label": "",
+															"value": "TRUE"
+														}],
+														"value": ["FALSE"]
+													},
+													"type": "Checklist",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": {
+													"props": {
+														"childre
+n": [{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": "Dieta Alimentare",
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"backgroundColor": "navy",
+																			"color": "white",
+																			"text-align": "left",
+																			"width": "700.0px"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														},
+														{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": {
+																			"props": {
+																				"id": "TipodiLatte",
+																				"style": {
+																					"height": "100px",
+																					"width": "100%"
+																				},
+																				"value": "varia"
+																			},
+																			"type": "Textarea",
+																			"namespace": "dash_core_components"
+																		},
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"font-weight": "bold",
+																			"color": "navy",
+																			"width": "700.0px",
+																			"border": "solid 1px navy"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														}]
+													},
+													"type": "Table",
+													"namespace": "dash_html_components"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"chi
+ldren": [{
+											"props": {
+												"children": "IntegrazioneconVitaminaD|Integrazione con Vitamina D",
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"backgroundColor": "navy",
+													"color": "white",
+													"text-align": "left",
+													"width": "700.0px"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"options": [{
+															"label": "",
+															"value": "TRUE"
+														}],
+														"value": ["FALSE"]
+													},
+													"type": "Checklist",
+													"namespace": "dash_core_components"
+												},
+												"style": {
+													"padding": "2px",
+													"overflow": "hidden",
+													"no-wrap": true,
+													"Vertical-align": "top",
+													"font-weight": "bold",
+													"color": "navy",
+													"width": "700.0px",
+													"border": "solid 1px navy"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								}]
+							},
+							"type": "Table",
+							"namespace": "dash_html_components"
+						},
+						"style": {
+							"vertical-align": "top",
+							"width": "350.0px"
+						}
+					},
+					"type": "Td",
+					"namespace": "dash_html_components"
+				}]
+			},
+			"type": "Tr",
+			"namespace": "dash_html_components"
+		},
+		{
+			"props": {
+				"children": {
+					"props": {
+						"ch
+ildren": {
+							"props": {
+								"children": [{
+									"props": {
+										"children": [{
+											"props": {
+												"children": {
+													"props": {
+														"children": [{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": "Problemi segnalati dai genitori",
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"backgroundColor": "navy",
+																			"color": "white",
+																			"text-align": "left",
+																			"width": "350.0px"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														},
+														{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": {
+																			"props": {
+																				"id": "Problemisegnalatidaigenitori",
+																				"style": {
+																					"height": "100px",
+																					"width": "100%"
+																				},
+																				"value": "tosse"
+																			},
+																			"type": "Textarea",
+																			"namespace": "dash_core_components"
+																		},
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"font-weight": "bold",
+																			"color": "navy",
+																			"width": "350.0px",
+																			"border": "solid 1px navy"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														}]
+													},
+													"type": "Table",
+													"namespace": "dash_html_compo
+nents"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": [{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": "Eventuali Rilievi",
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"backgroundColor": "navy",
+																			"color": "white",
+																			"text-align": "left",
+																			"width": "350.0px"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														},
+														{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": {
+																			"props": {
+																				"id": "EventualiRilievi",
+																				"style": {
+																					"height": "100px",
+																					"width": "100%"
+																				},
+																				"value": "normolinea"
+																			},
+																			"type": "Textarea",
+																			"namespace": "dash_core_components"
+																		},
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"font-weight": "bold",
+																			"color": "navy",
+																			"width": "350.0px",
+																			"border": "solid 1px navy"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														}]
+													},
+													"type": "Table",
+													"namespace": "dash_html_components"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								},
+								{
+									"props": {
+										"children": [{
+											"props": {
+												"children": {
+													"props": {
+														"children": [{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": "Sintesi dell\'osservazione",
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"backgroundColor": "navy",
+																			"color": "white",
+																			"text-align": "left",
+																			"width": "350.0px"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														},
+														{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": {
+																			"props": {
+																				"id": "Sintesidellosservazione",
+																				"style": {
+																					"height": "100px",
+																					"width": "100%"
+																				},
+																				"value": "ivas"
+																			},
+																			"type": "Textarea",
+																			"namespace": "dash_core_components"
+																		},
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"font-weight": "bold",
+																			"color": "navy",
+																			"width": "350.0px",
+																			"border": "solid 1px navy"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_compon
+ents"
+														}]
+													},
+													"type": "Table",
+													"namespace": "dash_html_components"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										},
+										{
+											"props": {
+												"children": {
+													"props": {
+														"children": [{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": "Suggerimenti",
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"backgroundColor": "navy",
+																			"color": "white",
+																			"text-align": "left",
+																			"width": "350.0px"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components"
+														},
+														{
+															"props": {
+																"children": {
+																	"props": {
+																		"children": {
+																			"props": {
+																				"id": "Suggerimenti",
+																				"style": {
+																					"height": "100px",
+																					"width": "100%"
+																				},
+																				"value": "stodal, allium cepa, pulsatilla"
+																			},
+																			"type": "Textarea",
+																			"namespace": "dash_core_components"
+																		},
+																		"style": {
+																			"padding": "2px",
+																			"overflow": "hidden",
+																			"no-wrap": true,
+																			"Vertical-align": "top",
+																			"font-weight": "bold",
+																			"color": "navy",
+																			"width": "350.0px",
+																			"border": "solid 1px navy"
+																		}
+																	},
+																	"type": "Td",
+																	"namespace": "dash_html_components"
+																}
+															},
+															"type": "Tr",
+															"namespace": "dash_html_components
+"
+														}]
+													},
+													"type": "Table",
+													"namespace": "dash_html_components"
+												}
+											},
+											"type": "Td",
+											"namespace": "dash_html_components"
+										}]
+									},
+									"type": "Tr",
+									"namespace": "dash_html_components"
+								}]
+							},
+							"type": "Table",
+							"namespace": "dash_html_components"
+						},
+						"colSpan": 2,
+						"style": {
+							"vertical-align": "top",
+							"width": "700px"
+						}
+					},
+					"type": "Td",
+					"namespace": "dash_html_components"
+				}
+			},
+			"type": "Tr",
+			"namespace": "dash_html_components"
+		}]
+	},
+	"type": "Table",
+	"namespace": "dash_html_components"
+}'

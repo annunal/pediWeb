@@ -1,0 +1,52 @@
+2023-03-15 06:30:10: '36141', 1
+2023-03-15 06:30:48: 'PID=', 21028, '/showVisita'
+2023-03-15 07:04:42: 'PID=', 16916, '/'
+2023-03-15 07:04:46: 'PID=', 16916, '/showVisita'
+2023-03-15 07:05:02: 'PID=', 16916, '/showVisita'
+2023-03-15 07:10:14: 'PID=', 21484, '/showVisita'
+2023-03-15 07:10:25: 'PID=', 21484, '/showVisita'
+2023-03-15 07:15:26: 'PID=', 15672, '/showVisita'
+2023-03-15 07:24:50: 'PID=', 19152, '/showVisita'
+2023-03-15 07:24:53: 'PID=', 19152, '/'
+2023-03-15 07:24:58: 'PID=', 19152, '/showVisita'
+2023-03-15 07:25:12: 'PID=', 19152, '/loggedIn'
+2023-03-15 07:25:27: 'PID=', 19152, '/showVisita'
+2023-03-15 07:26:13: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_42512.pdf'
+2023-03-15 07:26:13: 'cancellato',
+2023-03-15 07:26:15: 'out da pdfkit',
+2023-03-15 07:27:48: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_42512.pdf'
+2023-03-15 07:27:48: 'cancellato',
+2023-03-15 07:27:52: 'out da pdfkit',
+2023-03-15 07:28:46: 'PID=', 9964, '/'
+2023-03-15 07:28:50: 'PID=', 9964, '/showVisita'
+2023-03-15 07:29:10: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_42512.pdf'
+2023-03-15 07:29:10: 'cancellato',
+2023-03-15 07:29:11: 'out da pdfkit',
+2023-03-15 07:51:33: 'PID=', 17140, '/showVisita'
+2023-03-15 07:53:31: 'sto per creare il pdf',
+2023-03-15 07:53:35: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_42512.pdf'
+2023-03-15 07:53:35: 'cancellato',
+2023-03-15 07:53:38: 'out da pdfkit',
+2023-03-15 07:53:38: 'ho creato il pdf ', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_42512.pdf'
+2023-03-15 07:53:38: '42512', 1
+2023-03-15 07:53:38: 'evID=', 'loading-output'
+2023-03-15 07:53:38: 'dopo loading-output',
+2023-03-15 07:54:06: 'PID=', 17140, '/logout'
+2023-03-15 07:54:08: 'PID=', 17140, '/'
+2023-03-15 08:42:19: 'PID=', 17764, '/ShowDevices'
+2023-03-15 08:42:24: 'PID=', 17764, '/loggedIn'
+2023-03-15 08:42:38: 'PID=', 17764, '/showVisita'
+2023-03-15 08:42:42: 'sto per creare il pdf',
+2023-03-15 08:42:49: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_36141.pdf'
+2023-03-15 08:42:49: 'cancellato',
+2023-03-15 08:42:53: 'out da pdfkit',
+2023-03-15 08:42:53: 'ho creato il pdf ', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_36141.pdf'
+2023-03-15 08:42:54: '36141', 1
+2023-03-15 08:42:54: 'evID=', 'loading-output'
+2023-03-15 08:42:54: 'dopo loading-output',
+2023-03-15 08:43:06: '36141', 1
+2023-03-15 08:43:06: 'evID=', 'btnSendEmail'
+2023-03-15 08:43:09: 'ora cancello il pdf', 'D:\\DashApps\\pediatraWeb\\_storage\\_temp\\visita_36141.pdf'
+2023-03-15 08:43:09: 'cancellato',
+2023-03-15 08:43:14: 'out da pdfkit',
+2023-03-15 08:44:16: 'PID=', 17764, '/'

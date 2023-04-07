@@ -1,0 +1,6 @@
+pediatra/
+obj/
+__pycache__/
+.vs/
+pediatraWeb.pyproj
+pediatraWeb.sln
