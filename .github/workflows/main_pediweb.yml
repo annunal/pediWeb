@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pediWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F19753F18B3D48FA85A0B14DDAE24D59 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_463208471D9B4C29A818868F58151E06 }}
