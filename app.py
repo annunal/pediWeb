@@ -27,6 +27,7 @@ from loginPage import login
 from liste import listaPazienti,listaVisite
 from cryptography.fernet import Fernet
 
+appserver=app.server
 app.layout = html.Div([
     dcc.Location(id = 'url', refresh = False),
     html.Div(id = 'page-content')
