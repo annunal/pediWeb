@@ -172,7 +172,7 @@ if __name__ == '__main__':
     #showVisita(16269)    
     appserver=app.server
   
-    app.run_server(debug=True)
-    #app.server.run()
+    #app.run_server(debug=True)
+    app.server.run()
 
 
